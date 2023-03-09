@@ -1,0 +1,22 @@
+2.5d action game. Focus on creating engaging combat and movement with a complex moveset. Everything else - world design, story, graphics, sound - is secondary.
+
+
+The player character is Vertex Wrecker, brash sibling of Sahasrara Vector.
+VW has a basic "unarmed" moveset that can be modified with equipment. Equipping a weapon replaces some moves.
+
+The game is designed with a console controller in mind.
+
+Movement: The left analog stick controls movement. Movement is context-based; when an enemy is targeted the player's movements consist of short sidesteps with little commitment. Outside of combat, the player accelerates more slowly, but their maximum speed is drastically increased.
+
+Stance: The D-pad allows the player to enter one of four stances, which may allow the player to perform certain moves or facilitate dodging.
+	Down stance improves Vertex Wrecker's footing, reducing poise damage. 
+
+Targeting: Pressing RS toggles targeting. The right analog stick moves the reticle between enemies.
+
+Defence: Hold LT to enter the defensive stance, converting 100% of incoming damage to poise damage.
+
+X - Light attack; weak attack with little commitment
+
+
+Level: Edge of Time
+	"Any animal that crosses this boundary subjects itself to the threshing of Time."
