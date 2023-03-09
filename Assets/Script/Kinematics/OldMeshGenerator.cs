@@ -7,7 +7,7 @@ using static UnityEngine.EventSystems.EventTrigger;
 
 public static class OldMeshGenerator
 {
-    public static void GenerateVertices(KineticLimb kl, Mesh mesh)
+    /*public static void GenerateVertices(KineSkeleton kl, Mesh mesh)
     {
 
         // Each segment adds 4 new vertices, and we need an extra 4 for the base.
@@ -45,14 +45,14 @@ public static class OldMeshGenerator
 
 
         // Colliders
-        /*BoxCollider bc = GetComponent<BoxCollider>();
+        *//*BoxCollider bc = GetComponent<BoxCollider>();
         bc.size = new Vector3(Width * 2, LinkLength, Width * 2);
-        bc.center = new Vector3(0, LinkLength / 2f, 0);*/
+        bc.center = new Vector3(0, LinkLength / 2f, 0);*//*
     }
 
     // Should be called whenever the number of segments changes.
     // Fully regenerates all vertices and triangles.
-    public static void GenerateTriangles(KineticLimb kl, Mesh mesh)
+    public static void GenerateTriangles(KineSkeleton kl, Mesh mesh)
     {
         GenerateVertices(kl, mesh);
 
@@ -96,6 +96,6 @@ public static class OldMeshGenerator
         Debug.Log(s);
         mesh.triangles = t;
         
-    }
+    }*/
 
 }
