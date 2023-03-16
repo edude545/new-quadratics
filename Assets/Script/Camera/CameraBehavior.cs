@@ -5,7 +5,7 @@ using UnityEngine;
 public class CameraBehavior : MonoBehaviour
 {
 
-    Player Player;
+    GameObject player;
 
     private void Start()
     {
@@ -25,9 +25,9 @@ public class CameraBehavior : MonoBehaviour
 
     private void findPlayer()
     {
-        if (Player == null)
+        if (player == null)
         {
-            Player = GameObject.FindWithTag("Player").GetComponent<Player>();
+            player = GameObject.FindWithTag("Player");
         }
     }
 
