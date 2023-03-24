@@ -1,0 +1,81 @@
+Control scheme:
+
+	R1 - Normal attack
+	R1 while airborne - Dive attack
+	R2 - Light attack
+	R1 + R2 - Heavy attack
+	Tap L1 - Secondary attack
+	Hold L1 - Stance
+	L2 - Evade
+
+	Square - Guard
+	Circle - Deflect
+	Triangle - Charge
+	Cross - Jump
+
+
+
+Fluctuant Halberd
+	
+	Coalescence of bladed polearms. Sharp, and silvery sweet.
+	Texture similar to mercury - silver, reflective liquid. Edges fluctuate constantly.
+
+	Normal: Swing halberd sideways. Axeblade demanifests and reappears so it can be swung in the other direction without turning.
+	Light: Weapon decoheres and whips diagonally. Wide range.
+	Heavy: Thrust. Axeblade shrinks and spearhead extends for extra range.
+	Upward: Axeblade merges with spearhead to form a guandao. Uppercut.
+
+	Stance: Double the weapon, wielding a halberd in each arm.
+
+
+Fountain Knife
+
+	Kaleidoscopic membrane-cutter that writes in color. Originally designed to cut material, it was deemed too unruly for industry and relegated to the arsenals of rogues.
+	Large tapering curved blade with elaborate protective handle.
+
+	Normal: Sideways clawing strikes.
+	Light: Swing knife by ring for surprise cut. Extra range.
+	Heavy:
+	Upward: Leaping uppercut.
+
+	Stance: Activate blade and cut world membrane, leaving flashing technicolor wounds in the very air.
+
+
+
+Chakra Manifest
+
+	State-stream registry of power centres.
+	Invisible disc with undulating seven-colored patterns of light. 
+
+	Normal:
+	Light:
+	Heavy:
+	Upward:
+
+	Stance: Uncoil manifest into seven whirling rings for whip-like attacks.
+
+
+
+Deepblue Acuminate
+
+	Vorpal draconian weapon.
+	Blue metal rapier furnished with broad wings.
+
+	Normal: Forward stab.
+	Light: Swipe and leap backwards.
+	Heavy: Full-body lunge.
+	Upward: 
+
+	Stance: Spread wings for roaring strikes.
+
+
+
+Drill Vectors
+
+	Abstract weapon consisting of chained arrows. Hammers home previous attacks when used as follow-up.
+
+
+
+Stochastic Nerve
+
+	Admonishing red whip. Lashes degrade and degenerate enemy condition.
