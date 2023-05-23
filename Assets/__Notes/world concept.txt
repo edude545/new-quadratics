@@ -6,3 +6,41 @@ Intelligent hyperreal agents (closest thing to "hyperreal people") are known as 
 
 New Quadratics is a city-congregation, one of the few currently extant civilizations of animals. Due to the immortality and general self-sufficiency afforded to hyperreal animals, they have little reason to engage in civilization. Despite this, they sometimes gather due to a collective purpose or desire for interaction. No such congregations are permanent, and many have risen and fallen over the aeons.
 The name "New Quadratics" referes to both a group and a location. New Quadratics the location is a very long, linear structure resembling a city built on a bridge.
+
+[New Quadratics]
+Hub world. The explorable part of New Quadratics.
+- Diagram Square: Practice region. Populated by sparring partners.
+- Thoroughfare: New Quadratics' main highway, extending the entire length of the structure.
+- Tangent Underflow: "Underground" area below the Thoroughfare. Filled with public parks and water features.
+
+[Objective Horizon: Candor Sector]
+The immense workfloor of the Candor Sector, the part of the Objective Horizon superstructure assigned to New Quadratics.
+- Workfloor: Filled with heavy machinery and busy drones like Crack Skaters and Pressure Glaiviers, working to an omnipresent beat.
+- Flicker Halls: Network of regular small tunnels. Periodically flooded by a smothering darkness, which the resident workdrones are immune to.
+- Exterior Wall: The exterior of Candor Sector. The Sector makes heavy use of electric forces, and the purpose of the Exterior Wall is to direct electricity across the structure. For this reason, it is bristling with "lightning rods" - small blue poles capped with yellow cubes. The entire exterior wall is protected from weathering by electric shields, so the physical component of the wall is all exposed electrical components, spindly metal railings and walkways, plates of marbled-blue circuit strata, and small square 7-segment displays. When an electrical redirection occurs, a wave of changing numbers will spread across these displays, followed by a handful of lightning rods being struck. An exterior of Carthage is present in this region.
+
+["Carthage"]
+A great portable city that appears as a smooth amethyst core surrounded by nine concentric gold rings. This "exterior" can appear in many places, and is about a meter in diameter. Different exteriors all lead to the same "Carthage".
+Carthage was built long ago as a utility, and is now assisting with the Objective Horizon project.
+Looking out from inside Carthage, a great cloudy blue sky is visible.
+- Garbage Floes: Most commonly, visitors to Carthage enter in this region, the outer ring; a network of suspended curved conveyor belts transporting objects destined for recycling. The layout of this region is similar to scaffolding - a sturdy, sparse structure spread out over a great distance. The predominant colors here are saturated orange for the structure and practical dark-gray for the conveyors.
+- Octave City: This region is represented in the eighth ring of Carthage. The sparse structure of the Garbage Floes gradually gives way to sturdy islands, and then the continuous concrete foundation of Octave City. Despite its name, this region is not really populated - it is a gargantuan complex of monolithic, brutalist storehouses and sorting facilities made of a uniform gray concrete, separated by spacious, dark and cool streets. It takes a long time to get anywhere in Octave City due to its immense size, and some sort of vehicle is usually required. Though not technically enclosed, the sky above Octave City is gloomy gray. In the streets of Octave City, there is barely any detail - no rest sites, no art installations, no facades on the buildings. It can be hard to navigate. The visual design of the region conveys "tranquility" and "ample breathing room", as opposed to "menacing urban environment".
+- ???: First airgap.
+- ???:
+- ???:
+- ???:
+- ???: Second airgap. Everything from this point inwards is submerged in water.
+- ???:
+- ???: First ring. Contains Carthage's amethyst core.
+
+[Wired Live and Free]
+Enormous airbound vehicle capable of transporting an immense amount of material and personnel over great distances. A cloud-filled blue sky can be seen moving past at lightspeed.
+
+[Objective Horizon: CONTROL]
+The superstructure's centre of command. Sleek, seamless black structure with glowing white floors and accents. No machinery except telecommunications miscellanea.
+- Cipher Layer: Protective semantic blockade bristling with antennae. Conceals the location of CONTROL.
+- Signature Locus: Sterile white archive facility. Stores identities.
+
+[Triagonal Domain]
+Thoughtwave domain of the tyrant. Exists entirely within its solipsistic psyche.
+- Fields: The tyrant extracts work from its subjects here.
